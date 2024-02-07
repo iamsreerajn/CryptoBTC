@@ -18,7 +18,6 @@ using Newtonsoft.Json.Linq;
 
 namespace CryptoBTC.Controllers
 {
-    
     public class CryptoController : Controller
     {
         private readonly CryptoContext _context;
